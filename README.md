@@ -1,4 +1,4 @@
-qt版本5.14.2/n
+qt版本5.14.2<br>
 linux环境下
 cd Minesweeper
 mkdir build
