@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "qmainwindow": "cpp",
+        "fstream": "cpp",
+        "thread": "cpp"
+    }
+}
