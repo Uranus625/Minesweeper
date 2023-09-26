@@ -8,3 +8,5 @@ make<br>
 cd ../src/bin<br>
 ./minesweeper<br>
 # Minesweeper
+
+注：安装依赖sudo apt-get install qtmultimedia5-dev
